@@ -1,0 +1,39 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: #333;
+    background: #b1b0b0;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: #48c9b0;
+    color: #d35400;
+    padding: 20px;
+    text-align: center;
+}
+
+section{
+    padding: 20px;
+    margin: 10px auto;
+    max-width: 600px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 2px 5px rgb(0, 0, 0, 0113);
+}
+
+.about{
+    padding: 20px;
+
+}
+
+h2{
+    color: #d35400;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #05fdf1;
+    color: black
+}
